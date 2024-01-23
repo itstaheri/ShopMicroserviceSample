@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "nQyRwRXnu/cCAFN0Y0r/S6vuiedYtmNhROK+XYQ5JqkzVt7tC6FXHVgOwH8j6mmHkpM4cHb9ty4OPQ+f/T4UTA==",
+  "success": true,
+  "projectFilePath": "D:\\ShopMicroService\\IdentityService\\IdentityService\\IdentityService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alith\\.nuget\\packages\\duende.identityserver\\6.2.3\\duende.identityserver.6.2.3.nupkg.sha512",
+    "C:\\Users\\alith\\.nuget\\packages\\duende.identityserver.storage\\6.2.3\\duende.identityserver.storage.6.2.3.nupkg.sha512",
+    "C:\\Users\\alith\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\alith\\.nuget\\packages\\identitymodel.aspnetcore\\4.3.0\\identitymodel.aspnetcore.4.3.0.nupkg.sha512",
+    "C:\\Users\\alith\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.14\\microsoft.aspnetcore.authentication.jwtbearer.6.0.14.nupkg.sha512",
+    "C:\\Users\\alith\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.0\\microsoft.aspnetcore.authentication.openidconnect.6.0.0.nupkg.sha512",
+    "C:\\Users\\alith\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\6.0.0\\microsoft.aspnetcore.dataprotection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\alith\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\alith\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.0\\microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\alith\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.0\\microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "C:\\Users\\alith\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\alith\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "C:\\Users\\alith\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\alith\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.0\\system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "C:\\Users\\alith\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

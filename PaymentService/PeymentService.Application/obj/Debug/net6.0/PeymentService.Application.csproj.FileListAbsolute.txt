@@ -1,0 +1,15 @@
+D:\ShopMicroService\PaymentService\PeymentService.Application\bin\Debug\net6.0\PeymentService.Application.deps.json
+D:\ShopMicroService\PaymentService\PeymentService.Application\bin\Debug\net6.0\PeymentService.Application.dll
+D:\ShopMicroService\PaymentService\PeymentService.Application\bin\Debug\net6.0\PeymentService.Application.pdb
+D:\ShopMicroService\PaymentService\PeymentService.Application\bin\Debug\net6.0\PaymentService.Domain.dll
+D:\ShopMicroService\PaymentService\PeymentService.Application\bin\Debug\net6.0\PaymentService.Domain.pdb
+D:\ShopMicroService\PaymentService\PeymentService.Application\obj\Debug\net6.0\PeymentService.Application.csproj.AssemblyReference.cache
+D:\ShopMicroService\PaymentService\PeymentService.Application\obj\Debug\net6.0\PeymentService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShopMicroService\PaymentService\PeymentService.Application\obj\Debug\net6.0\PeymentService.Application.AssemblyInfoInputs.cache
+D:\ShopMicroService\PaymentService\PeymentService.Application\obj\Debug\net6.0\PeymentService.Application.AssemblyInfo.cs
+D:\ShopMicroService\PaymentService\PeymentService.Application\obj\Debug\net6.0\PeymentService.Application.csproj.CoreCompileInputs.cache
+D:\ShopMicroService\PaymentService\PeymentService.Application\obj\Debug\net6.0\PeymentService.Application.csproj.CopyComplete
+D:\ShopMicroService\PaymentService\PeymentService.Application\obj\Debug\net6.0\PeymentService.Application.dll
+D:\ShopMicroService\PaymentService\PeymentService.Application\obj\Debug\net6.0\refint\PeymentService.Application.dll
+D:\ShopMicroService\PaymentService\PeymentService.Application\obj\Debug\net6.0\PeymentService.Application.pdb
+D:\ShopMicroService\PaymentService\PeymentService.Application\obj\Debug\net6.0\ref\PeymentService.Application.dll

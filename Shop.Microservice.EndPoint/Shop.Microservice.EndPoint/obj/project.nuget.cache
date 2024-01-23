@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "jdtVuSSPAno4KcQ3gu+/fjvbUUY0ZbGi5LISMdiSjaqAtyg7yMW6QViHG+HcHxecDQHtXdLZIgaTL6QFS0zIrg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\ShopMicroService\\Shop.Microservice.EndPoint\\Shop.Microservice.EndPoint\\Shop.Microservice.EndPoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itsta\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\itsta\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.14\\microsoft.aspnetcore.authentication.openidconnect.6.0.14.nupkg.sha512",
+    "C:\\Users\\itsta\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\itsta\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.0\\microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\itsta\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.0\\microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "C:\\Users\\itsta\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\itsta\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "C:\\Users\\itsta\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\itsta\\.nuget\\packages\\restsharp\\109.0.1\\restsharp.109.0.1.nupkg.sha512",
+    "C:\\Users\\itsta\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.0\\system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "C:\\Users\\itsta\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

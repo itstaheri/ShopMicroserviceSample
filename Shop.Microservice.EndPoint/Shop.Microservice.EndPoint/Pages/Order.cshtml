@@ -1,0 +1,15 @@
+﻿@page
+@model Shop.Microservice.EndPoint.Pages.OrderModel
+@{
+}
+
+
+<div class="content">
+    <ul>
+       @foreach(var order in Model.Orders){
+            <li>Code : @order.code</li>
+            <li>Ispaid : @order.isPaid</li>
+            <li>UserId : @order.userId</li>
+       }
+    </ul>
+</div>
